@@ -1,0 +1,9 @@
+.footer{
+    background-color: rgb(48, 7, 48);
+    color: white;
+    padding: 20px; /* Adjust padding as needed */
+  margin-top: -15px; 
+  width: 97.6%;
+  display: flex; /* Use flexbox to display content in one line */
+  justify-content: space-between;
+}

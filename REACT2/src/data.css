@@ -1,0 +1,39 @@
+.dataimg{
+    position: relative;
+    top: 0;
+
+}
+
+.btns{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-top:-300px ;
+    color:blueviolet;
+    
+}
+
+.btn{
+   margin: 10px;
+}
+   
+.content{
+    position: absolute;
+ 
+    margin-left: 200px;
+    margin-top:-600px ;
+    color:white;
+    
+}
+
+.form{
+    position: absolute;
+    margin-left: 600px;
+    margin-top:-600px ;
+}
+#forminfo{
+    position: absolute;
+    margin-left: 600px;
+    margin-top:-500px ;
+}

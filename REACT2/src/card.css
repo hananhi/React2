@@ -1,0 +1,24 @@
+
+.card-style {
+    position: relative;
+    border: 1px solid gray;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px; /* Adjusted margin for better spacing */
+    padding: 20px;
+    width: 250px; /* Adjusted width for better readability */
+    height: auto; /* Let the height adjust based on content */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added a subtle box shadow */
+    transition: box-shadow 0.3s ease-in-out; /* Added a smooth transition for hover effect */
+    z-index: 2;
+  
+    &:hover {
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adjusted box shadow on hover */
+    }
+  }
+  
+  a:hover{
+    background-color:purple;
+    color: white;
+ 
+ }
